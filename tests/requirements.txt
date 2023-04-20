@@ -4,7 +4,7 @@ pylint
 mock
 docker
 requests
-molecule==4.0.4
+molecule==5.0.0
 coverage
 caniusepython3
 ansible==7.4.0
